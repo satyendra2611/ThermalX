@@ -1,0 +1,18 @@
+# Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Backend
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+uploads/
+backend/ml/*.csv
+backend/ml/model.pkl
+
+# OS
+.DS_Store
